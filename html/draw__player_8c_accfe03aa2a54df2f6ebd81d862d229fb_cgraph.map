@@ -1,0 +1,7 @@
+<map id="move_player" name="move_player">
+<area shape="rect" id="Node000001" title="Moves player position and orintation." alt="" coords="5,31,101,56"/>
+<area shape="rect" id="Node000002" href="$draw__player_8c.html#a8711ed71a5511b852962f2f5750845bf" title="Draw vector of player." alt="" coords="149,5,237,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="101,32,133,26,134,32,102,37"/>
+<area shape="rect" id="Node000003" href="$draw__player_8c.html#aa32d1a2cbd10349e6d59e101d801cb22" title="Draw pixel." alt="" coords="151,55,234,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="102,49,137,55,136,60,101,54"/>
+</map>
